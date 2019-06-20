@@ -1,0 +1,43 @@
+#numberOne{
+  border-radius: 12%;
+    border: 2px solid #429bf4
+}
+#numberTwo{
+  border-radius: 12%;
+  border: 2px solid #429bf4
+}
+#buttonSum{
+  border-radius: 12%;
+  border: 2px solid pink;
+  background-color: pink;
+  color: black   
+}
+#buttonSum:hover{
+  background-color:#f9de40;
+}
+#buttonSub{
+  border-radius: 12%;
+  background col
+}
+#buttonSub{
+  border-radius: 12%;
+  border: 2px solid pink;
+  background-color: pink;
+  color: black   
+}
+#buttonSub:hover{
+  background-color: #f9de40;
+}
+#buttonMulti{
+  border-radius: 12%;
+  background col
+}
+#buttonMulti{
+  border-radius: 12%;
+  border: 2px solid pink;
+  background-color: pink;
+  color: black   
+}
+#buttonMulti:hover{
+  background-color: #f9de40;
+}
